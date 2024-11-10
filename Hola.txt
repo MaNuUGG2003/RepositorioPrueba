@@ -1,0 +1,4 @@
+If(pene != coño){
+print("Es un hombre")}
+else{
+print("es una mujer")}
